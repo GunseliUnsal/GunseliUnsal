@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gunseli 👋</h1>
-<h3 align="center">I am an English Literature student and also a self-taught Web & Flutter Developer</h3>
+<h3 align="center">I am an English Literature student and also a self-taught Flutter Developer</h3>
 
 - 🌱 I’m currently learning **Flutter & Dart**
   
