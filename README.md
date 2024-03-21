@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Gunseli 👋</h1>
-<h3 align="center">I am an English Literature student and also a self-taught Flutter Developer</h3>
+<h3 align="center">I am an English Literature student and also a self-taught Mobile Developer</h3>
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently focusing on **iOS Development**
   
 <img align="right" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="250px">
 
