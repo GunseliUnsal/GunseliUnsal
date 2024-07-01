@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Gunseli 👋</h1>
+<h1 align="center">Hi there, I'm Günseli 👋</h1>
 <h3 align="center">I am an English Literature student and also a self-taught Mobile Developer</h3>
 
 - 🌱 I’m currently focusing on **iOS Development**
